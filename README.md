@@ -1,7 +1,5 @@
 # 📊 Medicine Demand Prediction
 
-⭐ Internship Task Submission – Data Analysis & Machine Learning
-
 This project focuses on predicting medicine demand using historical pharmaceutical sales data. It involves data cleaning, analysis, visualization, and building a basic machine learning model to understand and forecast sales patterns.
 
 ---
