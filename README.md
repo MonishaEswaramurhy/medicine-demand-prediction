@@ -107,9 +107,9 @@ medicine-demand-prediction/
 
 ## 🔗 Outputs
 
-- [View Monthly Sales Graph](data/monthly_sales.png)  
-- [View Correlation Heatmap](data/heatmap.png)  
-- [View Feature Importance](data/feature_importance.png)  
+- [View Monthly Sales Graph](monthly_sales.png)  
+- [View Correlation Heatmap](heatmap.png)  
+- [View Feature Importance](feature_importance.png)  
 ---
 
 ## 🔗 Project Files
