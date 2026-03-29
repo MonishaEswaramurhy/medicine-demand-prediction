@@ -96,6 +96,15 @@ The model was evaluated using:
 
 ---
 
+## 📁 Project Structure
+medicine-demand-prediction/
+│
+├── pharma_sales.csv
+├── medicine_prediction.ipynb
+└── README.md
+
+---
+
 ## 🧾 Conclusion
 
 This project provides a simple approach to understanding and predicting medicine demand. The model performs reasonably well and can be improved further by including more real-world factors such as seasonal diseases or external demand drivers.
@@ -104,4 +113,4 @@ This project provides a simple approach to understanding and predicting medicine
 
 ## 👩‍💻 Author
 
-Monisha E MSc Datascience Student
+Monisha E MSc Data Science Student
