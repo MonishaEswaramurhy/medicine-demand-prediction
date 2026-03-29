@@ -108,13 +108,13 @@ medicine-demand-prediction/
 ## 📊 Outputs
 
 ### Monthly Sales Trend
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](monthly_sales.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
